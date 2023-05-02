@@ -1,0 +1,13 @@
+.custom {
+   background-color: #add8e6;
+   text-align: center;
+   padding: 20px;
+  }
+  h2 {
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+  }
